@@ -4,7 +4,7 @@
 
 ### The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens and generate all of the tables and figures needed for the technical report of the clinical study. 
 
-### In this project the following statistical methods and visualization techniques were used in analyzing the data:
+#### In this project the following statistical methods and visualization techniques were used in analyzing the data:
 
 	- Preparation and cleaning of data
 	- Generation of summary statistics
