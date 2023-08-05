@@ -1,4 +1,4 @@
-# data_visualization
+# Pharmaceutical Data Analysis
 
 ## Analyzing pharmaceutical data using data visualization. 
 
