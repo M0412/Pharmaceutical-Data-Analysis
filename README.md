@@ -6,13 +6,13 @@
 
 #### In this project the following statistical methods and visualization techniques were used in analyzing the data:
 
-	- Preparation and cleaning of data
-	- Generation of summary statistics
-	- Creation of bar charts and pie charts
-	- Calculation of quartiles, finding outliers, and creation of a box plot
-	- Creation of a line plot and a scatter plot
-	- Calculation of correlation and regression
-	- Submission of final analysis
+- Preparation and cleaning of data
+- Generation of summary statistics
+- Creation of bar charts and pie charts
+- Calculation of quartiles, finding outliers, and creation of a box plot
+- Creation of a line plot and a scatter plot
+- Calculation of correlation and regression
+- Submission of final analysis
 
 
 
