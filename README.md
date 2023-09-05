@@ -9,9 +9,19 @@
 - Preparation and cleaning of data
 - Generation of summary statistics
 - Creation of bar charts and pie charts
+![Alt text](images/bar.png)
+![Alt text](images/piechart.png)
+
 - Calculation of quartiles, finding outliers, and creation of a box plot
+![Alt text](images/outliers.png)
+
 - Creation of a line plot and a scatter plot
+![Alt text](images/lineplot.png)
+![Alt text](images/scatterplot.png)
+
 - Calculation of correlation and regression
+![Alt text](images/corr.png)
+
 - Submission of final analysis
 
 
